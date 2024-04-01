@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser_name: chrome
+sleep_time: 5
+username: "Ulrich"
+password: "a10b1b08ba"
+status_error: '401'
+title: New Post Title
+description: SEM3
+content: Content sem3

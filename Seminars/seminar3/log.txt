@@ -1,0 +1,19 @@
+2024-04-01 18:46:58 INFO ====== WebDriver manager ======
+2024-04-01 18:46:59 INFO Get LATEST chromedriver version for google-chrome
+2024-04-01 18:46:59 INFO Get LATEST chromedriver version for google-chrome
+2024-04-01 18:46:59 INFO Driver [C:\Users\Dron\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2024-04-01 18:47:02 INFO Test 1 Starting
+2024-04-01 18:47:05 INFO Send test to element //*[@id="login"]/div[1]/label/input
+2024-04-01 18:47:05 INFO Send test to element //*[@id="login"]/div[2]/label/input
+2024-04-01 18:47:05 INFO Click login button
+2024-04-01 18:47:06 INFO We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2024-04-01 18:47:11 INFO Test 2 Starting
+2024-04-01 18:47:11 INFO Send Ulrich to element //*[@id="login"]/div[1]/label/input
+2024-04-01 18:47:11 INFO Send a10b1b08ba to element //*[@id="login"]/div[2]/label/input
+2024-04-01 18:47:12 INFO Click login button
+2024-04-01 18:47:13 INFO Login successful
+2024-04-01 18:47:18 INFO Test 3 Starting
+2024-04-01 18:47:18 INFO Creating a new post
+2024-04-01 18:47:24 INFO Post created with title: New Post Title
+2024-04-01 18:47:24 INFO Test 4 Starting
+2024-04-01 18:47:24 INFO Testing Contact Us form
