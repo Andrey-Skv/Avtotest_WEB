@@ -1,0 +1,14 @@
+address: https://test-stand.gb.ru
+browser_name: chrome
+sleep_time: 5
+
+username: "Ulrich"
+password: "a10b1b08ba"
+status_error: '401'
+
+title: quidem quo dignissimos
+description: Descriptor
+content: Content sem3
+
+email: Ulrich@mail.ru
+content: Test message

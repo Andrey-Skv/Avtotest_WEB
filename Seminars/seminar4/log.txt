@@ -1,0 +1,26 @@
+2024-04-09 17:39:32 INFO Test check not me post started
+2024-04-09 17:39:33 INFO response is: [{'id': 109411, 'title': 'quidem quo dignissimos', 'description': 'Eveniet porro voluptas tenetur odit voluptatibus repellendus mollitia eos libero. Qui voluptate qui modi qui tenetur eum odit qui.', 'content': 'Minima adipisci in deleniti et enim. Aut eveniet assumenda atque sunt autem. Architecto tenetur dolor nemo. Quaerat ut quidem reprehenderit. Hic voluptas modi. Cum eum consequatur sit.', 'authorId': 34761, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2024-04-09T14:12:36+00:00', 'createdAt': '2024-04-09T14:12:36+00:00', 'labels': [], 'delayPublishTo': '2024-01-25T00:00:00+00:00', 'draft': False}, {'id': 109410, 'title': '', 'description': '', 'content': '', 'authorId': 34761, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2024-04-09T14:12:36+00:00', 'createdAt': '2024-04-09T14:12:36+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}, {'id': 109407, 'title': '', 'description': '', 'content': '', 'authorId': 34761, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2024-04-09T14:08:46+00:00', 'createdAt': '2024-04-09T14:08:46+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}, {'id': 109406, 'title': '', 'description': '', 'content': '', 'authorId': 34761, 'mainImage': {'id': None, 'cdnUrl': ''}, 'updatedAt': '2024-04-09T14:07:56+00:00', 'createdAt': '2024-04-09T14:07:56+00:00', 'labels': [], 'delayPublishTo': None, 'draft': False}]
+2024-04-09 17:39:33 INFO Test create post started
+2024-04-09 17:39:33 INFO Response is <Response [200]>
+2024-04-09 17:39:33 INFO Test check created post started
+2024-04-09 17:39:33 INFO Response is <Response [200]>
+2024-04-09 17:39:33 INFO ====== WebDriver manager ======
+2024-04-09 17:39:34 INFO Get LATEST chromedriver version for google-chrome
+2024-04-09 17:39:35 INFO Get LATEST chromedriver version for google-chrome
+2024-04-09 17:39:35 INFO Driver [C:\Users\Dron\.wdm\drivers\chromedriver\win64\109.0.5414.74\chromedriver.exe] found in cache
+2024-04-09 17:39:37 INFO Test 1 Starting
+2024-04-09 17:39:42 INFO Send test to element login form
+2024-04-09 17:39:42 INFO Send test to element pasword form
+2024-04-09 17:39:44 INFO Test 2 Starting
+2024-04-09 17:39:44 INFO Send Ulrich to element login form
+2024-04-09 17:39:44 INFO Send a10b1b08ba to element pasword form
+2024-04-09 17:39:46 INFO Test3 Starting
+2024-04-09 17:39:46 INFO Send quidem quo dignissimos to element title form
+2024-04-09 17:39:47 INFO Send Descriptor to element description form
+2024-04-09 17:39:47 INFO Send Test message to element content form
+2024-04-09 17:39:57 INFO Test Contact_us Starting
+2024-04-09 17:39:57 INFO Send Ulrich to element contact name form
+2024-04-09 17:39:58 INFO Send Ulrich@mail.ru to element contact email form
+2024-04-09 17:39:58 INFO Send Test message to element contact content form
+2024-04-09 17:39:59 INFO Get alert message
+2024-04-09 17:39:59 INFO Alert message is Form successfully submitted
